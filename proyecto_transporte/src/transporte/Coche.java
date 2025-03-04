@@ -6,7 +6,7 @@ public class Coche extends Vehiculo implements ConMotor {
         super(velocidadMaxima);
     }
 
-    public int getVelocidadMaxima() {
+   public int getVelocidadMaxima() {
         return velocidadMaxima;
     }
 
